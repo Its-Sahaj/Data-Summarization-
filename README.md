@@ -1,5 +1,12 @@
 # Data-Summarization-
-This project is a web app that summarizes long text using advanced NLP models. It uses facebook/bart-large-cnn for accurate, coherent summaries, Gradio for a clean interface, and Hugging Face Transformers for pre-trained model support. Simple, fast, and effective.
+This project is a simple yet powerful web app that allows users to summarize long pieces of text using state-of-the-art natural language processing models.
+Built with:
+
+🔍 facebook/bart-large-cnn — for high-quality, coherent, and grammatically accurate summaries
+
+⚡ Gradio — for a fast and user-friendly web interface
+
+🧠 Transformers from Hugging Face — for loading pre-trained summarization models
 🚀 Features
 ✂️ Summarizes long articles, essays, and paragraphs
 
