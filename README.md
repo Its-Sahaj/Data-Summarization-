@@ -21,4 +21,6 @@ transformers
 
 gradio
 
-(Optionally: torch or accelerate, depending on your setup)
+# Project's Display
+
+<img width="1918" height="946" alt="image" src="https://github.com/user-attachments/assets/20c41b07-f9f7-451d-990e-65e86f4c9d9b" />
